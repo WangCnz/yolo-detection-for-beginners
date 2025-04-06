@@ -1,0 +1,10 @@
+path: D:/lane/dataset # dataset root dir
+train: images/train/obj_train_data # train images
+val: images/val/obj_train_data # validation images
+
+# Classes
+names:
+  0: pedestrian
+  1: cyclist
+  2: vehicle
+nc: 3 # number of classes

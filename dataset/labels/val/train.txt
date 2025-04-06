@@ -1,0 +1,15 @@
+data/obj_train_data/000446.png
+data/obj_train_data/000460.png
+data/obj_train_data/007129.png
+data/obj_train_data/007147.png
+data/obj_train_data/007280.png
+data/obj_train_data/007301.png
+data/obj_train_data/007318.png
+data/obj_train_data/007377.png
+data/obj_train_data/007410.png
+data/obj_train_data/007434.png
+data/obj_train_data/007448.png
+data/obj_train_data/007449.png
+data/obj_train_data/007469.png
+data/obj_train_data/007478.png
+data/obj_train_data/007501.png
